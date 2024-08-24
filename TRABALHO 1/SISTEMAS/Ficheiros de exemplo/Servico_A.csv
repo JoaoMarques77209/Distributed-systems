@@ -1,0 +1,6 @@
+TarefaID,Descricao,Estado,ClienteID
+6,Ronda na zona 1 da cidade,Concluido,-1
+7,Ronda na zona 2 da cidade,Concluido,0
+8,Ronda na zona 3 da cidade,Concluido,0
+9,Verificar vegetacao na zona dos passadicos do Corgo,Concluido,0
+10,Corgo,Concluido,0

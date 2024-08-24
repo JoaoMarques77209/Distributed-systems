@@ -1,0 +1,28 @@
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\Servidor\bin\Debug\net7.0\Servidor.exe
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\Servidor\bin\Debug\net7.0\Servidor.deps.json
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\Servidor\bin\Debug\net7.0\Servidor.runtimeconfig.json
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\Servidor\bin\Debug\net7.0\Servidor.dll
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\Servidor\bin\Debug\net7.0\Servidor.pdb
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\Servidor\obj\Debug\net7.0\Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\Servidor\obj\Debug\net7.0\Servidor.AssemblyInfoInputs.cache
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\Servidor\obj\Debug\net7.0\Servidor.AssemblyInfo.cs
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\Servidor\obj\Debug\net7.0\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\Servidor\obj\Debug\net7.0\Servidor.dll
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\Servidor\obj\Debug\net7.0\refint\Servidor.dll
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\Servidor\obj\Debug\net7.0\Servidor.pdb
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\Servidor\obj\Debug\net7.0\Servidor.genruntimeconfig.cache
+C:\Users\Moisés\Desktop\Universidade\3º ano\2º Semestre\Sistemas Distribuídos\Servidor\obj\Debug\net7.0\ref\Servidor.dll
+C:\Users\jonas\Desktop\SISTEMAS\PROTOCOLO 1\Servidor\bin\Debug\net7.0\Servidor.exe
+C:\Users\jonas\Desktop\SISTEMAS\PROTOCOLO 1\Servidor\bin\Debug\net7.0\Servidor.deps.json
+C:\Users\jonas\Desktop\SISTEMAS\PROTOCOLO 1\Servidor\bin\Debug\net7.0\Servidor.runtimeconfig.json
+C:\Users\jonas\Desktop\SISTEMAS\PROTOCOLO 1\Servidor\bin\Debug\net7.0\Servidor.dll
+C:\Users\jonas\Desktop\SISTEMAS\PROTOCOLO 1\Servidor\bin\Debug\net7.0\Servidor.pdb
+C:\Users\jonas\Desktop\SISTEMAS\PROTOCOLO 1\Servidor\obj\Debug\net7.0\Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\Desktop\SISTEMAS\PROTOCOLO 1\Servidor\obj\Debug\net7.0\Servidor.AssemblyInfoInputs.cache
+C:\Users\jonas\Desktop\SISTEMAS\PROTOCOLO 1\Servidor\obj\Debug\net7.0\Servidor.AssemblyInfo.cs
+C:\Users\jonas\Desktop\SISTEMAS\PROTOCOLO 1\Servidor\obj\Debug\net7.0\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\jonas\Desktop\SISTEMAS\PROTOCOLO 1\Servidor\obj\Debug\net7.0\Servidor.dll
+C:\Users\jonas\Desktop\SISTEMAS\PROTOCOLO 1\Servidor\obj\Debug\net7.0\refint\Servidor.dll
+C:\Users\jonas\Desktop\SISTEMAS\PROTOCOLO 1\Servidor\obj\Debug\net7.0\Servidor.pdb
+C:\Users\jonas\Desktop\SISTEMAS\PROTOCOLO 1\Servidor\obj\Debug\net7.0\Servidor.genruntimeconfig.cache
+C:\Users\jonas\Desktop\SISTEMAS\PROTOCOLO 1\Servidor\obj\Debug\net7.0\ref\Servidor.dll
